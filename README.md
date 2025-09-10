@@ -7,4 +7,6 @@ Project Learnings:
 3. Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
 4. Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
 
-5. Example: (https://github.com/MeSamiulIslam/E-commerce-Dasboard-Power-BI-/blob/Master/E-commerce%20Dashboard.png)
+Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/MeSamiulIslam/E-commerce-Dasboard-Power-BI-/blob/Master/E-commerce%20Dashboard.png)
